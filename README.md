@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying robotics in EPFL. I've just started my master degree and look forward learing a bunch of new things !
+- 🌱  I’m currently studying robotics at EPFL. I've just started my master's degree and look forward to learning a bunch of new things !
 
 - 📫 How to reach me: lucas.maneff@epfl.ch
 <!--
