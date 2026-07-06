@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱  I’m currently studying robotics at EPFL. I'm pursuing my master's degree and look forward to learning a bunch of new things !
+- I've just finished my master in robotics at EPFL. Looking forward to build interesting and impactful stuff !
 
-- 📫 How to reach me: lucas.maneff@epfl.ch
+- 📫 How to reach me: lucasmaneffp@gmail.com
 <!--
 **MrKiwix/MrKiwix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
