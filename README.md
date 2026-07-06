@@ -1,8 +1,8 @@
-### Hi there 👋
+### Yo !
 
-- I've just finished my master in robotics at EPFL. Looking forward to build interesting and impactful stuff !
-
-- 📫 How to reach me: lucasmaneffp@gmail.com
+- I've just finished my master in robotics at EPFL.
+- Looking forward to build interesting and impactful things !
+- How to reach me: lucasmaneffp@gmail.com
 <!--
 **MrKiwix/MrKiwix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
