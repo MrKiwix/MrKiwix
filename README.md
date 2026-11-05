@@ -1,10 +1,14 @@
-Hello
+Hello,
 
 This is me  :^)
 
 This is my e-mail: lucasmaneffp@gmail.com
 
-Contact me if you have questions !
+Contact me if you have questions
+
+Lucas
+
+<!--
 
 ```text
           ,888888b.
@@ -32,3 +36,7 @@ Contact me if you have questions !
             <,--''`.._>8888(
              `>__...--' `''` SSt
 ```
+
+https://ascii.co.uk/art/penguins
+
+-->
