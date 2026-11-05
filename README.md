@@ -1,12 +1,10 @@
 Hello,
 
-This is me **→** :^)
+Here is my e-mail: lucasmaneffp@gmail.com
 
-This is my e-mail **→** lucasmaneffp@gmail.com
+Contact me if you have any questions
 
-Contact me if you have questions
-
-Lucas
+:^)
 
 <!--
 
